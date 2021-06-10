@@ -52,6 +52,15 @@
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Inverse-Rendering-Papers/blob/master/ir(28).pdf" style="text-decoration:none;">Deep Outdoor Illumination Estimation</a></li>
  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Inverse-Rendering-Papers/blob/master/ir(29).pdf" style="text-decoration:none;">Outdoor inverse rendering from a single image using multiview self-supervision </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Inverse-Rendering-Papers/blob/master/ir(30).pdf" style="text-decoration:none;">PhySG: Inverse Rendering with Spherical Gaussians for Physics-based Material Editing and Relighting</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Inverse-Rendering-Papers/blob/master/ir(31).pdf" style="text-decoration:none;">A Signal-Processing Framework for Inverse Rendering</a></li> 
+  
+  
+  
+  
    </ul>
      
      
